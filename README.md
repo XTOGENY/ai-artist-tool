@@ -9,8 +9,6 @@
 
 无需安装，双击即用，帮助你高效整理、预览和组合画师标签 (Tags)，突破浏览器缓存限制。
 
-### [🚀 点击这里在线使用 (GitHub Pages)](https://desperati0n.github.io/ai-artist-tool/)
-
 </div>
 
 ---
