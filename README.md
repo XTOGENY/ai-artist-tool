@@ -43,7 +43,7 @@
 ### 方案二：在线体验评估
 
 如果你只是想先看看长什么样，项目已部署到 GitHub Pages，可以直接访问：
-👉 **[https://desperati0n.github.io/ai-artist-tool/](https://desperati0n.github.io/ai-artist-tool/)**
+👉 **[[https://desperati0n.github.io/ai-artist-tool/](https://desperati0n.github.io/ai-artist-tool/)](https://xtogeny.github.io/ai-artist-tool/)**
 *(仅适合临时体验，千万不要在这里长期存放重要数据)*
 
 ## ⚙️ 使用指南 (Guide)
